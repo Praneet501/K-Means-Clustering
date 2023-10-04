@@ -1,0 +1,6 @@
+# K-Means-Clustering
+Customer Segmentation using K-Means Clustering
+
+Employing K-Means clustering on customer data, identified five unique clusters that display distinct spending and income behaviors. Cluster 0 comprises older individuals with conservative spending habits and lower earnings, while Cluster 1 primarily comprises older male customers with higher earnings and a reluctance to spend. Younger, high-earning customers who prefer spending make up Cluster 2, while Cluster 3 consists of younger individuals with limited incomes but a propensity for expenditure. Lastly, Cluster 4 is characterized by older customers with below-average earnings displaying an average spending score.
+
+To optimize business strategies, it's highly recommended to invest in Cluster 1 by developing tailored offerings that align with their significant earning potential. Cluster 2 presents an exceptional opportunity to enhance customer satisfaction by providing personalized services that cater to their youthful exuberance for spending. It is also critical to keep a watchful eye on the remaining clusters to ensure adaptability to shifting customer dynamics. This segmentation analysis serves as a solid foundation for customer-centric approaches, poised to elevate overall business performance and increase competitiveness in the market.
